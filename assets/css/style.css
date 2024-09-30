@@ -254,7 +254,7 @@ h6 {
 }
 
 #hero p {
-  color: #fff;
+  color: #442d2d;
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
@@ -295,7 +295,7 @@ section {
 }
 
 .section-bg {
-  background: #d8dbe0;
+  background: #6f92cf;
 }
 
 .section-title {
@@ -506,7 +506,7 @@ section {
   border-radius: 50px;
   left: -9px;
   top: 0;
-  background: #fff;
+  background: #be1e1e;
   border: 2px solid #1f5297;
 }
 
